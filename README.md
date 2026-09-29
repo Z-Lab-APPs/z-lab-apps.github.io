@@ -17,6 +17,7 @@ index.html          # list of all apps (add a line for each new app)
 | App | Support URL | Privacy URL |
 |---|---|---|
 | BTT Singapore - Theory Test | https://z-lab-apps.github.io/bttsg/ | https://z-lab-apps.github.io/bttsg/privacy.html |
+| 性价比人生 · LifeGuide | https://z-lab-apps.github.io/lifeguide/ | https://z-lab-apps.github.io/lifeguide/privacy.html |
 
 ## Adding an app
 
